@@ -1,0 +1,1 @@
+export 'doctor_details_view.dart';
